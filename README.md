@@ -1,7 +1,9 @@
-# medicaid-unwinding
+# Possible Coverage Gaps During the Period of Medicaid Unwinding
+
+The full thesis on this topic can be found [here](https://sfsu.box.com/s/rwdpt44j3pcm55n9aqc1n1t8yts4eq7r).
 
 ## Tl;dr
-The [Coverage Gap Analysis file](https://github.com/Zrrrpy/medicaid-unwinding/blob/main/coverage_gap_analysis.ipynb) contains all inputs and outputs of a data analysis on possible health coverage gaps experienced during the period of Medicaid Unwinding. As of 4/25/24, the data collection period for this analysis is April 2023 through December 2023. 
+The [Coverage Gap Analysis file](https://github.com/Zrrrpy/medicaid-unwinding/blob/main/coverage_gap_analysis.ipynb) contains all inputs and outputs of a data analysis on possible health coverage gaps experienced during the period of Medicaid Unwinding. As of 4/25/24, the data collection period for this analysis is April 2023 through December 2023.
 
 ## What is Medicaid Unwinding?
 Medicaid Unwinding is the period following the end of the Public Health Emergency (PHE) during which states resume redetermining enrollees' Medicaid eiligibility. This usually happens annually, but [the Continuous Care provision in the Families First Coronavirus Response Act](https://www.kff.org/medicaid/issue-brief/10-things-to-know-about-the-unwinding-of-the-medicaid-continuous-enrollment-provision/#:~:text=At%20the%20start%20of%20the,exchange%20for%20enhanced%20federal%20funding.) mandated that states pause annual redeterminations during the PHE. During this time, Medicaid enrollments consequently increased – leaving 95 million people to be redetermined beginning in March, 2023. 
